@@ -1,5 +1,4 @@
 # Image_Collage_Maker
-# Image Collage Maker
 
 This project is a Python-based **Image Collage Maker** that allows users to upload, edit, and create collages using multiple images. It provides a variety of image manipulation features such as cropping, rotating, resizing, applying filters, adding text, painting, and background removal.
 
