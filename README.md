@@ -24,6 +24,7 @@ A demonstration video showcasing the features of this application is included in
 - Apply filters and effects,
 - Use the background removal tool,
 - Save the final collage.
+Check out the demonstration video here: https://youtu.be/9HYZrgEpt8k?si=wAbuomyQLG8367jX
 
 ## How to Run
 
